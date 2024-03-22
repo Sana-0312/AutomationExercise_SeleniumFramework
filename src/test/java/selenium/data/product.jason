@@ -1,0 +1,20 @@
+[
+{
+"product1" : "Blue Top",
+"product2" : "Men Tshirt",
+"P1price" : "500",
+"P2price" : "400",
+"category" : "Women",
+"availability" : "In Stock",
+"condition" : "New",
+"brandName" : "Polo",
+"quantity" : "4",
+"P1Quantity" : "1",
+"P2Quantity" : "1",
+"searchProduct" : "Winter Top",
+"myEmail" : "sana301@gmail.com",
+"password" : "Sana@321",
+"myName" : "sana",
+"myReview" : "good."
+}
+]

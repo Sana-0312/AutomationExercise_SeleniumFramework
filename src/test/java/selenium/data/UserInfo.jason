@@ -1,0 +1,25 @@
+[
+{
+"userName":"Sana",
+"userEmail":"alasana25@gmail.com",
+"password":"Sana@321",
+"fName":"Sana",
+"lName":"shaik",
+"add":"Nagapalyam",
+"userState":"AndhraPradesh",
+"userCity":"Punganur",
+"code":"517247",
+"userNumber":"0987654321",
+"inValidEmail" : "sana11@gmail.com",
+"inValidPassword" : "Sana@456",
+"Subject":"Great website",
+"Message":"Gained experience through this website.Thankyou.",
+"cardName" : "alasana",
+"cardNumber" : "1234567890123456",
+"cvv" : "123",
+"expMonth" : "05",
+"expYear" : "2040",
+"validEmail" : "alasana@gmail.com",
+"validPassword" : "Sana@123"
+}
+]
